@@ -21,3 +21,7 @@ This website is deployed using Netlify and connected to GitHub.
 
 ## License
 See the repository's license information before reusing or distributing this project.
+
+## Development
+
+This project is being improved as part of my Git and GitHub learning journey.
